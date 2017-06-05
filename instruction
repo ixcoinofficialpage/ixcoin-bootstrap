@@ -1,0 +1,3 @@
+CD C:\Users\<my_user>\AppData\Roaming\ixcoin\blocks
+
+COPY /b blk00000.dat blk00001.dat+blk00002.dat bootstrap.dat
