@@ -1,3 +1,6 @@
+To make a bootstrap file>
 CD C:\Users\<my_user>\AppData\Roaming\ixcoin\blocks
-
 COPY /b blk00000.dat blk00001.dat+blk00002.dat bootstrap.dat
+
+To use a bootstap file>
+Place bootstrap.dat file in C:\Users\<my_user>\AppData\Roaming\ixcoin\blocks
